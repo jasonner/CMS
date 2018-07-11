@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/product/product",
+    "pages/userCenter/userCenter",
+    "pages/aboutWx/aboutWx"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2828ff",
+    "navigationBarTitleText": "吴杰Jason",
+    "navigationBarTextStyle": "whiter"
+  },
+  "tabBar": {
+    "selectedColor": "#f3b256",
+    "list": [
+      {
+        "iconPath": "./assets/images/index/indexN.png",
+        "selectedIconPath": "./assets/images/index/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "./assets/images/index/myN.png",
+        "selectedIconPath": "./assets/images/index/my.png",
+        "pagePath": "pages/userCenter/userCenter",
+        "text": "扫码"
+      },
+      {
+        "iconPath": "./assets/images/index/myN.png",
+        "selectedIconPath": "./assets/images/index/my.png",
+        "pagePath": "pages/userCenter/userCenter",
+        "text": "我的"
+      }
+    ],
+    "debug": true
+  }
+}

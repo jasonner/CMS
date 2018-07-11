@@ -1,0 +1,5 @@
+/* pages/product/product.wxss */
+
+.swiper-img{
+  width: 100%;
+}

@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+      <view bindtap='bindViewTap'><image src='/assets/images/index/bg.jpg'></image></view>
+</view>
